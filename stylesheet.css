@@ -1,6 +1,6 @@
 body {
   background-image:url("https://github.com/uh0908/tastydietcleanse/blob/main/%EF%BC%91.png?raw=true");
-  background-size:auto;
+  background-size:contain;
 }
 
 .box {
