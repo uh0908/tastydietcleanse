@@ -1,5 +1,8 @@
-body {
-  background-image:url("https://github.com/uh0908/tastydietcleanse/blob/main/%EF%BC%91.png?raw=true");
-  background-size:cover;
+
+.container1 {
+  width: 300px;
+  height: 120px;
+  background-image: url("https://github.com/uh0908/tastydietcleanse/blob/main/%EF%BC%91.png?raw=true");
   background-repeat: no-repeat;
+  background-size: cover;
 }
