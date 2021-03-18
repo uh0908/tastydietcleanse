@@ -1,8 +1,7 @@
-
 .container1 {
-  width: 100px;
-  height: 100px;
-  background-image: url("https://github.com/uh0908/tastydietcleanse/blob/main/%EF%BC%91.png?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+    height: 5351px;
+    background: url("https://github.com/uh0908/tastydietcleanse/blob/main/tasty%20diet%20cleans.png?raw=true");
+    background-repeat:no-repeat;
+    margin: 0 auto;
+    background-position: top;
+  }
